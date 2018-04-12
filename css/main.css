@@ -1,11 +1,7 @@
-.huge {
+.header {
     margin-top: 32px !important;
-    margin-bottom: 16px !important;
 }
-.tiny {
-    margin-top: 8px !important;
-}
-.down {
+.segment {
     display: flex;
     border: none !important;
     justify-content: center;
@@ -20,12 +16,4 @@
     margin: 0 auto 24px;
     border-radius: 0.8rem;
     box-shadow: 4px 4px 16px -4px rgba(0, 0, 0, 0.8);
-}
-.top {
-    border: none !important;
-    box-shadow: none !important;
-}
-.footer {
-    border: none !important;
-    box-shadow: none !important;
 }
